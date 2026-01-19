@@ -8,7 +8,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: #f0f8ff;
+  background: #2e4f6a;
   color: #333;
 }
 
@@ -23,10 +23,10 @@ section {
 
 h1 {
   text-align: center;
-  color: #4da6ff;
+  color: #4075ab;
   margin-bottom: 25px;
   font-size: 2rem;
-  text-shadow: 1px 1px 2px rgba(255, 182, 193, 0.4);
+  text-shadow: 1px 1px 2px rgba(112, 90, 93, 0.4);
 }
 
 .select-wrapper {
@@ -38,15 +38,15 @@ select {
   padding: 12px 15px;
   font-size: 1rem;
   border-radius: 8px;
-  border: 1px solid #cce0ff;
-  background: #e6f0ff; 
+  border: 1px solid #627490;
+  background: #b8cff2; 
   color: #333;
   transition: 0.3s all;
 }
 
 select:focus {
   outline: none;
-  border-color: #ffb6c1;
+  border-color: #826166;
   box-shadow: 0 0 8px rgba(255, 182, 193, 0.3);
 }
 
@@ -75,7 +75,7 @@ details {
   padding: 12px;
   border-left: 4px solid #4da6ff;
   border-radius: 6px;
-  background: #f7faff;
+  background: #395d9b;
 }
 
 summary {

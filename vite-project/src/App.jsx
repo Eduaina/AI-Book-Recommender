@@ -54,6 +54,7 @@ export default function App() {
     }
 
     const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
+    
     if (!GEMINI_API_KEY) {
       dispatch({
         type: "FETCH_ERROR",
